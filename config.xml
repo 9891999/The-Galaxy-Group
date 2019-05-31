@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.company.name" version="1.0.0">
+	<name>Galaxy</name>
+	<description>HK Water Card</description>
+	<author href="http://www.webems.cn" email="info@webems.cn">Langer.Huang</author>
+	<feature name="Device">
+		<param name="ios-package" value="CDVDevice"/>
+		<param name="android-package" value="org.apache.cordova.device.Device" />
+	</feature>
+	<icon src="/resources/images/icon.png" gap:role="default"/>
+</widget>
